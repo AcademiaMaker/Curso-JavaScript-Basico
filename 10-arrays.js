@@ -73,6 +73,7 @@ arrays.unshift(-3,-2,-1,0);          //Metodo con argumentos
 arrays.pop();                        //metodo sin argumentos
 arrays.shift();                      //metodo sin argumentos
 
+arrays.splice()                      //metoodo para borrar un arreglo, argumento de posicion y cuanto quieres borrar
 console.log(arrays);
 
 console.log(arrays.indexOf(6));
